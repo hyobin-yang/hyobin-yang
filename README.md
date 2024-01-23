@@ -1,1 +1,1 @@
-<a href="link" target="_blank"><img src="<i class="fi fi-rs-gem"></i>?related_id=5527981/badge/style-F7CAC9?style=for-the-badge&logo=appveyor&logoColor=92A8D1"/></a>
+<a href="link" target="_blank"><img src=https://img.shields.io/badge/Instaram?related_id=5527981/badge/style-E4405F?style=for-the-badge&logo=appveyor&logoColor=000000"/></a>
