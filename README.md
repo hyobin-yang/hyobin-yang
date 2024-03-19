@@ -3,16 +3,15 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello&color=BFBFFF&fontColor=e7e8ec&fontSize=50&animation=fadeIn&fontAlignY=35&height=200&section=header)
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome&fontAlign=70)
 
 
-### Welcome to my profile :ghost:
+### SNS :ghost:
 
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">
-
+<img src="https://img.shields.io/badge/YouTube-#03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
 
 <br/>
