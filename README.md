@@ -1,7 +1,9 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello&color=BFBFFF&fontColor=e7e8ec&fontSize=50&animation=fadeIn&fontAlignY=35&height=200&section=header)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello&color=BFBFFF&fontColor=e7e8ec&fontSize=50&animation=fadeIn&fontAlignY=35&height=200&section=header)
+-->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 
 ### Welcome to my profile :ghost:
@@ -36,7 +38,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 
-## 흑흑 언제 다 꾸미지
 
 
 <br/>
@@ -46,7 +47,17 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobin-yang&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobin-yang&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyobin-yang&layout=compact&theme=synthwave)
+-->
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
+
 
 </div>
