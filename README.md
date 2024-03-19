@@ -3,15 +3,19 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello&color=BFBFFF&fontColor=e7e8ec&fontSize=50&animation=fadeIn&fontAlignY=35&height=200&section=header)
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome&fontAlign=70)
 
+<br/>
+<br/>
+<br/>
+<br/>
 
-### SNS :ghost:
+### SNS 👻
 
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+<img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
 
 <br/>
@@ -19,7 +23,7 @@
 <br/>
 
 
-## I'm learning :pencil2:
+### ✏️ I'm learning ✏️
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -29,7 +33,7 @@
 <br/>
 <br/>
 
-## Used at least once
+### ⚒️ Used at least once ⚒️
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
